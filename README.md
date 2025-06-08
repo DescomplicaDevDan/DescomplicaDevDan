@@ -1,10 +1,17 @@
-## Olá! wu sou o Dan 👋
+## Olá! Eu sou o Dan 👋
 
 🎓 Estudante de Sistemas de Informação  
 💻 Focado em desenvolvimento Front-end  
 📍 São Pedro da Aldeia, RJ  
 📫 Contato: texeirad042@gmail.com
 
+---
+#### 💡 Sobre mim
+Sou um estudante apaixonado por tecnologia e design de interfaces.  
+Atualmente, foco meus estudos em **desenvolvimento front-end**, buscando sempre criar experiências modernas, funcionais e acessíveis.  
+Também tenho interesse por **análise de dados**, explorando o uso do Power BI para transformar informações em insights.  
+
+Estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**, aprender com profissionais da área e contribuir com soluções criativas.
 ---
 
 #### 🚀 Skills
@@ -15,7 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
 ---
 
 #### 📊 GitHub Stats
@@ -24,27 +30,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark" />
 </div>
 
-
 ---
 
-#### 💡 Sobre mim
-Sou estudante de Sistemas de Informação com foco em desenvolvimento front-end.  
-Gosto de criar interfaces modernas e funcionais, e também tenho interesse em análise de dados com Power BI.  
-Busco oportunidades para crescer na área de tecnologia e aplicar meus conhecimentos em projetos reais.
-
----
-
-<!--
-**DescomplicaDevDan/DescomplicaDevDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
