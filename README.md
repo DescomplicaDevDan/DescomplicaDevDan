@@ -18,9 +18,11 @@ Estou em busca de **oportunidades para aplicar meus conhecimentos em projetos re
 ---
 
 ### 📊 GitHub Stats  
-<div style="display: flex; gap: 10px;">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark" />  
-</div>  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true" width="350"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark&hide_border=true" width="350"/></td>
+  </tr>
+</table>
 
 ---
