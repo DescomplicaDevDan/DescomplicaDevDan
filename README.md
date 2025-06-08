@@ -8,9 +8,11 @@
 ---
 ##### 💡 Sobre mim
 
-Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, foco meus estudos em **desenvolvimento front-end**, buscando sempre criar experiências modernas, funcionais e acessíveis. 
-Também tenho interesse por **análise de dados**, explorando o uso do Power BI para transformar informações em insights.  
-Estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**, aprender com profissionais da área e contribuir com soluções criativas.
+#### Sou um estudante apaixonado por tecnologia e design de interfaces.  
+#### Atualmente, foco meus estudos em **desenvolvimento front-end**, buscando sempre criar experiências modernas, funcionais e acessíveis.  
+#### Também tenho interesse por **análise de dados**, explorando o uso do Power BI para transformar informações em insights.  
+#### Estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**, aprender com profissionais da área e contribuir com soluções criativas.
+
 ---
 
 #### 🚀 Skills
