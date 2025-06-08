@@ -9,8 +9,8 @@
 ---
 
 #### 🚀 Skills
-- HTML • CSS • JavaScript • Responsividade  
-- Power BI  
+- HTML • CSS • JavaScript
+- Responsividade • Power BI
 - Java • Python  
 
 ---
