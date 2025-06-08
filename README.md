@@ -16,9 +16,9 @@
 ---
 
 #### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dracula)
 
 ---
 
