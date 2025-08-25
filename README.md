@@ -9,12 +9,9 @@ Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, f
 
 ---
 
-### 🚀 Tecnologias e Ferramentas  
-<code><img height="30" src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite"></code>
-<code><img height="30" src="https://www.google.com/search?q=https://img-shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"></code>
-<code><img height="30" src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"></code>
-<code><img height="30" src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite"></code>
-<code><img height="30" src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"></code>
+### 🚀 Tecnologias e Ferramentas 
+--- 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-282C34?style=for-the-badge&logoColor=white)
 ---  
 
 ### 📊 GitHub Stats  
