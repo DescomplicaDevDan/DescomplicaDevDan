@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Danilo 👋
 
 🎓 Graduando em Sistemas de Informação  
-💻 Focado em **Desenvolvimento Full-stack** (ênfase em Node.js) <br>
+<br>
 📍 São Pedro da Aldeia – RJ  
 📫 Contato: texeirad042@gmail.com  
 
