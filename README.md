@@ -24,6 +24,5 @@ Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark&hide_border=true)
-![Status](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
