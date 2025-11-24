@@ -18,7 +18,7 @@ Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, f
 ![AI](https://img.shields.io/badge/AI-282C34?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
----  
+---
 
 ### 📊 GitHub Stats  
 <table>
