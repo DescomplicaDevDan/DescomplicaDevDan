@@ -20,12 +20,10 @@ Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, f
 
 ---
 
-### 📊 GitHub Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true" width="350"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark&hide_border=true" width="350"/></td>
-  </tr>
-</table>
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark&hide_border=true)
+![Status](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
