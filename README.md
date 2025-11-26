@@ -1,19 +1,20 @@
 # Olá! Eu sou o Danilo Texeira 👋
 
-* [cite_start]🎓 **Formação:** Bacharelando em Sistemas de Informação - Faculdade Descomplica [cite: 50, 51]
-* [cite_start]📍 **Localização:** São Pedro da Aldeia – RJ [cite: 1]
-* [cite_start]📧 **Contato:** descomplicadevdan@gmail.com [cite: 1]
-* [cite_start]🔗 **LinkedIn:** [danilo-texieira-dev](https://linkedin.com/in/danilo-texeira-dev/) [cite: 2]
+* 🎓 **Formação:** Bacharelando em Sistemas de Informação - Faculdade Descomplica
+* 📍 **Localização:** São Pedro da Aldeia – RJ
+* 📧 **Contato:** descomplicadevdan@gmail.com
+* 🔗 **LinkedIn:** [danilo-texieira-dev](https://linkedin.com/in/danilo-texeira-dev/)
+* 💻 **GitHub:** [DescomplicaDevDan](https://github.com/DescomplicaDevDan)
 
 ---
 
 ### 💼 Perfil Profissional
 
-Sou um estudante de Sistemas de Informação apaixonado por tecnologia e design de interfaces. [cite_start]Atualmente, meu foco principal é em **Desenvolvimento Full-Stack**[cite: 4].
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia e design de interfaces. Atualmente, meu foco principal é em **Desenvolvimento Full-Stack**.
 
-[cite_start]Minha trajetória inclui 9 anos na Marinha do Brasil, onde desenvolvi forte experiência em liderança de equipes, documentação técnica, padronização e otimização de processos operacionais[cite: 5]. Essa experiência me proporcionou uma mentalidade analítica e alta capacidade de execução sob pressão.
+Minha trajetória inclui 9 anos na Marinha do Brasil, onde desenvolvi forte experiência em liderança de equipes, documentação técnica, padronização e otimização de processos operacionais. Essa experiência me proporcionou uma mentalidade analítica e alta capacidade de execução sob pressão.
 
-[cite_start]Busco oportunidades para atuar no desenvolvimento de soluções completas e robustas nas áreas de Desenvolvimento, Análise de Sistemas, QA ou Suporte Técnico[cite: 6].
+Busco oportunidades para atuar no desenvolvimento de soluções completas e robustas nas áreas de Desenvolvimento, Análise de Sistemas, QA ou Suporte Técnico.
 
 ---
 
@@ -24,7 +25,7 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 | Área | Skills |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Banco de Dados** | [cite_start]![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) [cite: 12] [cite_start]![NoSQL](https://img.shields.io/badge/NoSQL-4479A5?style=for-the-badge&logo=mongodb&logoColor=white) [cite: 12] |
+| **Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4479A5?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Ferramentas/Metodologias** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-darkblue?style=for-the-badge&logo=jira&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0099CC?style=for-the-badge&logo=trello&logoColor=white) ![AI](https://img.shields.io/badge/Inteligência_Artificial-282C34?style=for-the-badge&logoColor=white) |
 
 ---
@@ -33,15 +34,15 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 | Projeto | Tecnologia Principal | Principais Funcionalidades | Link |
 | :--- | :--- | :--- | :--- |
-| **Motor de Busca Otimizado** | Python | Implementação de busca ranqueada com **TF-IDF** e índice invertido. [cite_start]Possui autocomplete eficiente ($O(k)$) usando **Trie**. [cite: 20, 21] | [cite_start][Repositório](https://github.com/DescomplicaDevDan/Motor%20busca) [cite: 24] |
-| **Conversor de Moedas** | JavaScript, API REST | Conversor moderno e resiliente com consumo de API REST. [cite_start]Inclui tratamento de exceções, validação de inputs (Regex) e formatação (Intl API). [cite: 34, 35] | [cite_start][Deploy](https://convert-template-project.vercel.app/) [cite: 37] \| [cite_start][Repositório](https://github.com/DescomplicaDevDan/convert-template-project) [cite: 38] |
-| **Quicklist (To-do)** | JavaScript (Puro) | [cite_start]Gerenciador de tarefas (CRUD completo) com persistência de dados via `localStorage` e manipulação dinâmica do DOM. [cite: 26, 28] | [cite_start][Deploy](https://to-do-list-flame-chi-61.vercel.app/) [cite: 30] \| [cite_start][Repositório](https://github.com/DescomplicaDevDan/To-do-list) [cite: 31] |
+| **Motor de Busca Otimizado** | Python | Implementação de busca ranqueada com **TF-IDF** e índice invertido. Desenvolvi autocomplete com **Trie**, garantindo busca por prefixo em $O(k)$. | [Repositório](https://github.com/DescomplicaDevDan/Motor%20busca) |
+| **Conversor de Moedas** | JavaScript, API REST | Conversor resiliente com consumo de API REST e tratamento de exceções. Utiliza validação via **Regex** e formatação com `Intl API`. | [Deploy](https://convert-template-project.vercel.app/) \| [Repositório](https://github.com/DescomplicaDevDan/convert-template-project) |
+| **Quicklist (To-do)** | JavaScript (Puro) | Gerenciador de tarefas (CRUD completo) com persistência de dados via `localStorage` e manipulação dinâmica do DOM. | [Deploy](https://to-do-list-flame-chi-61.vercel.app/) \| [Repositório](https://github.com/DescomplicaDevDan/To-do-list) |
 
 ---
 
 ### 📊 Estatísticas (Minhas Linguagens)
 
-Devido à instabilidade de serviços externos, utilizei a opção mais estável para mostrar minhas linguagens mais usadas:
+**Minhas Linguagens Mais Usadas:**
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DescomplicaDevDan&theme=dark)](https://github.com/DescomplicaDevDan)
 
