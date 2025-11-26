@@ -4,7 +4,6 @@
 * 📍 **Localização:** São Pedro da Aldeia – RJ
 * 📧 **Contato:** descomplicadevdan@gmail.com
 * 🔗 **LinkedIn:** [danilo-texieira-dev](https://linkedin.com/in/danilo-texeira-dev/)
-* 💻 **GitHub:** [DescomplicaDevDan](https://github.com/DescomplicaDevDan)
 
 ---
 
