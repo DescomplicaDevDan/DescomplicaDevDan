@@ -1,0 +1,28 @@
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  # Roda todos os dias às 03:00 UTC (00:00 BRT)
+  schedule: [{cron: "0 3 * * *"}]
+  # Roda manualmente na aba Actions
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # O token de acesso do GitHub (obrigatório)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # O que gerar
+          template: classic
+          config_display: columns
+          
+          # Habilita o plugin de Linguagens
+          plugin_languages: yes
+          plugin_languages_threshold: 0% # Mostra todas as linguagens
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          
+          # Nome do arquivo de saída da imagem SVG
+          output_filename: metrics.svg
