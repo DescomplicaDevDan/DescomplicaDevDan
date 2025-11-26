@@ -30,16 +30,6 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 ---
 
-### 💻 Projetos em Destaque
-
-| Projeto | Tecnologia Principal | Principais Funcionalidades | Link |
-| :--- | :--- | :--- | :--- |
-| **Motor de Busca Otimizado** | Python | Implementação de busca ranqueada com **TF-IDF** e índice invertido. Desenvolvi autocomplete com **Trie**, garantindo busca por prefixo em $O(k)$. | [Repositório](https://github.com/DescomplicaDevDan/Motor%20busca) |
-| **Conversor de Moedas** | JavaScript, API REST | Conversor resiliente com consumo de API REST e tratamento de exceções. Utiliza validação via **Regex** e formatação com `Intl API`. | [Deploy](https://convert-template-project.vercel.app/) \| [Repositório](https://github.com/DescomplicaDevDan/convert-template-project) |
-| **Quicklist (To-do)** | JavaScript (Puro) | Gerenciador de tarefas (CRUD completo) com persistência de dados via `localStorage` e manipulação dinâmica do DOM. | [Deploy](https://to-do-list-flame-chi-61.vercel.app/) \| [Repositório](https://github.com/DescomplicaDevDan/To-do-list) |
-
----
-
 ### 📊 Estatísticas (Minhas Linguagens)
 
 **Minhas Linguagens Mais Usadas:**
