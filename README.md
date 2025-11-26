@@ -30,10 +30,10 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 ---
 
-### 📊 Estatísticas (Minhas Linguagens)
+---
 
-**Minhas Linguagens Mais Usadas:**
+### 📊 Estatísticas
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DescomplicaDevDan&theme=dark)](https://github.com/DescomplicaDevDan)
+[![Minhas Linguagens](https://github.com/DescomplicaDevDan/DescomplicaDevDan/blob/main/metrics.svg)](https://github.com/DescomplicaDevDan/DescomplicaDevDan/actions)
 
 ---
