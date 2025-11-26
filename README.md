@@ -1,36 +1,36 @@
-## Olá! Eu sou o Danilo 👋
+# Olá! Eu sou o Danilo Texeira 👋
 
-* 🎓 **Graduando:** Sistemas de Informação
+* 🎓 **Formação:** Bacharelando em Sistemas de Informação - Faculdade Descomplica
 * 📍 **Localização:** São Pedro da Aldeia – RJ
-* 📧 **Contato:** texeirad042@gmail.com
+* 📧 **Contato:** descomplicadevdan@gmail.com
+* 🔗 **LinkedIn:** [danilo-texieira-dev](https://linkedin.com/in/danilo-texeira-dev/)
 
 ---
 
-### 💼 Perfil e Objetivo
+### 💼 Perfil Profissional
 
-Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, meu foco é em **Desenvolvimento Full-Stack**, buscando sempre criar experiências modernas, funcionais e acessíveis.
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia e design de interfaces. Atualmente, meu foco principal é em **Desenvolvimento Full-Stack**.
 
-Meu objetivo é construir soluções completas e robustas, desde o front-end intuitivo até o back-end eficiente. Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e contribuir com soluções criativas.
+Minha trajetória inclui 9 anos na Marinha do Brasil, onde desenvolvi forte experiência em liderança de equipes, documentação técnica, padronização e otimização de processos operacionais. Essa experiência me proporcionou uma mentalidade analítica e alta capacidade de execução sob pressão.
+
+Busco oportunidades para atuar no desenvolvimento de soluções completas e robustas nas áreas de Desenvolvimento, Análise de Sistemas, QA ou Suporte Técnico.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas (Hard Skills)
+
+Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
+
+| Área | Skills |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) (Conceitos) ![NoSQL](https://img.shields.io/badge/NoSQL-4479A5?style=for-the-badge&logo=mongodb&logoColor=white) (Conceitos) |
+| **Ferramentas/Metodologias** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-darkblue?style=for-the-badge&logo=jira&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0099CC?style=for-the-badge&logo=trello&logoColor=white) ![AI](https://img.shields.io/badge/Inteligência_Artificial-282C34?style=for-the-badge&logoColor=white) |
 
 ---
 
-### 🚀 Tecnologias e Ferramentas (Full-Stack Focus)
+### 💻 Projetos em Destaque
 
-  *  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
- *   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-*
-    ![AI](https://img.shields.io/badge/Inteligência_Artificial-282C34?style=for-the-badge&logoColor=white)
-    
----
-
-### 💻 Estatísticas do GitHub
-
-Aguardando a estabilização dos serviços de estatísticas... Enquanto isso, confira meu repositório para ver minhas contribuições!
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DescomplicaDevDan&theme=dark)](https://github.com/DescomplicaDevDan)
-
----
+| Projeto | Tecnologia Principal | Principais Funcionalidades | Link |
+| :--- | :--- | :--- | :--- |
+| **Motor de Busca Otimizado** | Python | Implementação de busca ranqueada com **TF-IDF
