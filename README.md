@@ -3,7 +3,7 @@
 * 🎓 **Formação:** Bacharelando em Sistemas de Informação - Faculdade Descomplica
 * 📍 **Localização:** São Pedro da Aldeia – RJ
 * 📧 **Contato:** descomplicadevdan@gmail.com
-* 🔗 **LinkedIn:** [danilo-texieira-dev](https://linkedin.com/in/danilo-texeira-dev/)
+* 🔗 **LinkedIn:** [danilo-texeira-dev](https://linkedin.com/in/danilo-texeira-dev/)
 
 ---
 
