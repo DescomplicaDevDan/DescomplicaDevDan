@@ -11,8 +11,6 @@
 
 Sou um estudante de Sistemas de Informação apaixonado por tecnologia e design de interfaces. Atualmente, meu foco principal é em **Desenvolvimento Full-Stack**.
 
-Minha trajetória inclui 9 anos na Marinha do Brasil, onde desenvolvi forte experiência em liderança de equipes, documentação técnica, padronização e otimização de processos operacionais. Essa experiência me proporcionou uma mentalidade analítica e alta capacidade de execução sob pressão.
-
 Busco oportunidades para atuar no desenvolvimento de soluções completas e robustas nas áreas de Desenvolvimento, Análise de Sistemas, QA ou Suporte Técnico.
 
 ---
