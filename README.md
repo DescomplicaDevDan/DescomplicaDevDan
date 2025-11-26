@@ -16,7 +16,6 @@ Sou um estudante apaixonado por tecnologia e design de interfaces. Atualmente, f
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![AI](https://img.shields.io/badge/AI-282C34?style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
