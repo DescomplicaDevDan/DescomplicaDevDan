@@ -30,7 +30,8 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 Aqui estão as métricas de uso e linguagens:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danilo-texeira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-texeira-dev&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DescomplicaDevDan&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DescomplicaDevDan&layout=compact&theme=dark)
 
 ---
