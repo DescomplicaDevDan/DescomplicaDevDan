@@ -1,41 +1,51 @@
 # Olá! Eu sou o Danilo Texeira 👋
 
-* 🎓 **Formação:** Sistemas de Informação - Faculdade Descomplica
-* 📍 **Localização:** São Paulo – SP
-* 📧 **Contato:** descomplicadevdan@gmail.com
-* 🔗 **LinkedIn:** [danilo-texeira-dev](https://linkedin.com/in/danilo-texeira-dev/)
+> **Desenvolvedor Full-Stack | Analista de Sistemas | QA Enthusiast**
+> *Transformando lógica em soluções eficientes e código limpo.*
 
 ---
 
 ### 💼 Perfil Profissional
 
-Sou um entusiasta de tecnologia e graduado em Sistemas de Informação. Embora meu foco técnico atual seja em Desenvolvimento Full-Stack, possuo um perfil versátil e adaptável, focado em resolver problemas e entregar valor técnico, independente da frente de atuação.
-Estou ativamente buscando minha primeira oportunidade no ecossistema de TI. Tenho total abertura para colaborar e crescer em diversas áreas, incluindo:
+Sou graduado em **Sistemas de Informação** e apaixonado pela resolução de problemas através da tecnologia. Com uma base sólida em engenharia de software e experiência prática no desenvolvimento de aplicações modernas, possuo um perfil versátil e adaptável.
 
-🚀 Desenvolvimento & Engenharia de Software (Front-end, Back-end ou Full-Stack)
-🛠️ Suporte Técnico & Infraestrutura
-📊 Análise de Sistemas & Requisitos
-🛡️ Garantia de Qualidade (QA) & Testes
-
-Meu objetivo é aplicar minha base acadêmica e técnica para contribuir com o sucesso da equipe, mantendo um aprendizado contínuo e disposição para encarar novos desafios tecnológicos.
+Atualmente, busco minha primeira oportunidade como **Desenvolvedor Junior (Front, Back ou Full-Stack)**, mas minha formação me permite atuar com excelência também em:
+* 🛡️ **QA & Testes:** Foco em garantir a qualidade e integridade do código.
+* 📊 **Análise de Sistemas:** Habilidade em levantamento de requisitos e documentação técnica.
+* 🛠️ **Suporte Técnico Nível 2/3:** Capacidade analítica para troubleshooting e infraestrutura.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas (Hard Skills)
+### 🚀 Projetos em Destaque
 
-Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4479A5?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-darkblue?style=for-the-badge&logo=jira&logoColor=white)
+#### [🍱 Nutricomp - MarmitaCard](https://nutricomp.com.br)
+*Sistema de gestão de pedidos fitness com checkout inteligente e integração via WhatsApp.*
+- **Destaque Técnico:** Implementação de persistência de dados (LocalStorage), validação rigorosa de UX (Regex para CPF/CEP) e layout responsivo com Tailwind CSS.
+- **Stack:** React, TypeScript, Vite, Context API.
 
 ---
 
-### 📊 Estatísticas
+### 🛠️ Tecnologias e Ferramentas
 
+#### 💻 Frontend & Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4479A5?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🔧 Tools & Methodologies
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🎓 Educação & Contato
+
+* 🎓 **Graduação:** Sistemas de Informação - Faculdade Descomplica
+* 📍 **Localização:** Bela Vista, São Paulo – SP
+* 📧 **E-mail:** [descomplicadevdan@gmail.com](mailto:descomplicadevdan@gmail.com)
+* 🔗 **LinkedIn:** [danilo-texeira-dev](https://linkedin.com/in/danilo-texeira-dev/)
+
+---
+
+### 📊 My GitHub Stats
 ![Status de Contribuição](https://github-readme-streak-stats.herokuapp.com/?user=DescomplicaDevDan&theme=dark)
-
----
