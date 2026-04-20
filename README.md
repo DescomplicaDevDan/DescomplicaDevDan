@@ -9,7 +9,7 @@
 
 Sou graduado em **Sistemas de Informação** e apaixonado pela resolução de problemas através da tecnologia. Com uma base sólida em engenharia de software e experiência prática no desenvolvimento de aplicações modernas, possuo um perfil versátil e adaptável.
 
-Atualmente, busco minha primeira oportunidade como **Desenvolvedor Junior (Front, Back ou Full-Stack)**, mas minha formação me permite atuar com excelência também em:
+Atualmente, busco oportunidades como **Desenvolvedor Junior (Front, Back ou Full-Stack)**, mas atuo também em:
 * 🛡️ **QA & Testes:** Foco em garantir a qualidade e integridade do código.
 * 📊 **Análise de Sistemas:** Habilidade em levantamento de requisitos e documentação técnica.
 * 🛠️ **Suporte Técnico Nível 2/3:** Capacidade analítica para troubleshooting e infraestrutura.
