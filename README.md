@@ -18,7 +18,7 @@ Atualmente, busco oportunidades como **Desenvolvedor Junior (Front, Back ou Full
 
 ### 🚀 Projetos em Destaque
 
-#### [🍱 Nutricomp - MarmitaCard]([https://nutricomp.com.br](https://marmitas-app-3nig.vercel.app/))
+#### [🍱 Nutricomp - MarmitaCard]([https://marmitas-app-3nig.vercel.app/])
 *Sistema de gestão de pedidos fitness com checkout inteligente e integração via WhatsApp.*
 - **Destaque Técnico:** Implementação de persistência de dados (LocalStorage), validação rigorosa de UX (Regex para CPF/CEP) e layout responsivo com Tailwind CSS.
 - **Stack:** React, TypeScript, Vite, Context API.
