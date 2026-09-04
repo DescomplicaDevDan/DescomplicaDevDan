@@ -149,6 +149,31 @@ Conte qual problema deseja resolver, quem vai usar a solução e quais entregas 
 
 </details>
 
+<a id="insights"></a>
+<img src="./insights-heading.svg" width="100%" alt="Indicadores dos projetos" />
+
+<p align="center">
+  <a href="#fontes-indicadores"><img src="./insights-tests.svg" width="32%" alt="Testes: aguardando dados da última execução." /></a>
+  <a href="#fontes-indicadores"><img src="./insights-vitals.svg" width="32%" alt="Web Vitals: aguardando medições de LCP, INP e CLS." /></a>
+  <a href="#fontes-indicadores"><img src="./insights-traffic.svg" width="32%" alt="Visitantes únicos por repositório em 14 dias: aguardando dados." /></a>
+</p>
+
+<a id="fontes-indicadores"></a>
+<details>
+<summary><strong>&gt;_ insights --fontes · Consultar status dos indicadores</strong></summary>
+
+Os indicadores ainda não estão conectados a fontes de dados. “Aguardando dados” não significa zero nem falha.
+
+| Indicador | Informação a publicar |
+| :--- | :--- |
+| Testes | Projeto, resultado da execução, data e link para o relatório. |
+| Web Vitals | Aplicação, LCP, INP e CLS, período e fonte da medição. |
+| Visitantes | Repositório, visitantes únicos nos últimos 14 dias e data da consulta. |
+
+O tráfego se refere aos repositórios, não às visitas ao perfil. Estes cartões são SVGs estáticos; a atualização automática ainda não foi configurada.
+
+</details>
+
 <p align="center"><a href="#inicio"><img src="./button-top.svg" width="320" alt="Voltar ao início" /></a></p>
-<p align="center"><code>&gt;_ sudo be_myself</code><br />Menos complexidade. Mais clareza.</p>
+<p align="center"><img src="./logo-footer.svg" width="420" alt="sudo be_myself" /></p>
 
