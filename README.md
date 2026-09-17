@@ -4,11 +4,12 @@
 </p>
 
 ```html
-<section id="disponibilidade">
-  <p>São Paulo/SP · Remoto, híbrido e presencial.</p>
-  <p>Busco oportunidades front-end júnior e projetos freelance.</p>
-</section>
+<p>São Paulo/SP · Remoto, híbrido e presencial.</p>
+<p>Disponível para vagas júnior e projetos freelance.</p>
 ```
+
+<a id="contato"></a>
+<a href="https://www.linkedin.com/in/danilo-texeira-dev/"><img src="./button-link-6.svg" width="280" alt="Conversar no LinkedIn" /></a> <a href="mailto:descomplicadevdan@gmail.com"><img src="./button-link-7.svg" width="280" alt="Enviar e-mail" /></a>
 
 <p align="center">
   <a href="#projetos"><img src="./nav-projetos.svg" width="24%" alt="Projetos e experiência" /></a>
@@ -22,78 +23,43 @@
 
 <a href="https://www.nutricomp.com.br/"><img src="./nutricomp.svg" width="100%" alt="Nutricomp — projeto freelance de front-end com React, TypeScript e Tailwind CSS. Abrir aplicação." /></a>
 
-```html
-<article id="experiencia-freelance">
-  <p>Atuação em front-end · Março a julho de 2026.</p>
-  <ul>
-    <li>Combos com gramagem obrigatória e preços por tamanho.</li>
-    <li>Carrinho persistente com Context API e LocalStorage.</li>
-    <li>Pedido com itens, entrega e pagamento para envio no WhatsApp.</li>
-    <li>Filtros por categoria e busca por produtos e ingredientes.</li>
-    <li>Checkout e montador de combos carregados sob demanda.</li>
-  </ul>
-</article>
-```
+**Experiência freelance em front-end · Março a julho de 2026.**
+
+- **Regras de negócio:** combos com gramagem obrigatória e preços por tamanho.
+- **Carrinho persistente:** Context API e LocalStorage para manter a seleção de produtos.
+- **Pedidos:** mensagem com itens, entrega e preferência de pagamento para envio pelo WhatsApp.
+
+<details>
+<summary>Mais detalhes da implementação</summary>
+
+Filtros por categoria, busca por produtos e ingredientes e carregamento sob demanda do checkout e do montador de combos.
+
+</details>
 
 <a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
 
-<a id="stack"></a>
-<img src="./section-stack.svg" width="100%" alt="Tecnologias aplicadas nos projetos" />
-
-```html
-<section id="fundamentos-e-ferramentas">
-  <p>HTML · CSS · JavaScript</p>
-  <p>Git/GitHub · Vite</p>
-</section>
-```
+**Fundamentos e ferramentas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
 
 <a id="laboratorio"></a>
 <img src="./section-laboratorio.svg" width="100%" alt="Laboratório — projeto complementar" />
 
 <a href="https://motor-busca.vercel.app/"><img src="./motor-busca.svg" width="100%" alt="Motor de Busca — Python, Flask, TF-IDF e Trie. Abrir demonstração." /></a>
 
-```html
-<article id="projeto-didatico">
-  <ul>
-    <li>Índice invertido para localizar documentos.</li>
-    <li>Ranqueamento por relevância e sugestões por prefixo.</li>
-    <li>API REST com respostas em JSON.</li>
-    <li>Persistência do índice e testes de carregamento com unittest.</li>
-  </ul>
-</article>
-```
+**Projeto didático de recuperação de documentos.**
+
+- **Busca e relevância:** índice invertido, ranqueamento e sugestões por prefixo.
+- **API REST:** consultas com respostas em JSON e persistência do índice.
+- **Testes:** verificação de persistência e carregamento com unittest.
 
 <a href="https://motor-busca.vercel.app/"><img src="./button-link-3.svg" width="280" alt="Experimentar motor de busca" /></a> <a href="https://github.com/DescomplicaDevDan/Motor_busca"><img src="./button-link-4.svg" width="280" alt="Explorar código do motor de busca" /></a>
 
 <a id="trajetoria"></a>
 <img src="./section-trajetoria.svg" width="100%" alt="Formação e trajetória profissional" />
 
-```html
-<section id="formacao-e-experiencia">
-  <article>
-    <h3>Bacharelado em Sistemas de Informação</h3>
-    <p>Faculdade Descomplica · Concluído em 2026.</p>
-  </article>
-  <article>
-    <h3>Desenvolvimento web autônomo</h3>
-    <p>Desde agosto de 2026.</p>
-  </article>
-  <article>
-    <h3>Instituto Pilar · Assistente de Campo</h3>
-    <p>Desde dezembro de 2025.</p>
-    <p>Atendimento, documentação e mediação de conflitos.</p>
-  </article>
-  <article>
-    <h3>Marinha do Brasil</h3>
-    <p>Atuação administrativa e operacional · 2016 a 2025.</p>
-  </article>
-</section>
-```
-
-<a id="contato"></a>
-<img src="./section-contato.svg" width="100%" alt="Contato — oportunidades e projetos" />
-
-<a href="https://www.linkedin.com/in/danilo-texeira-dev/"><img src="./button-link-6.svg" width="280" alt="Conversar no LinkedIn" /></a> <a href="mailto:descomplicadevdan@gmail.com"><img src="./button-link-7.svg" width="280" alt="Enviar e-mail" /></a>
+- **Sistemas de Informação:** bacharelado pela Faculdade Descomplica, concluído em 2026.
+- **Desenvolvimento web autônomo:** desde agosto de 2026.
+- **Instituto Pilar:** Assistente de Campo desde dezembro de 2025, com atendimento, documentação e mediação de conflitos.
+- **Marinha do Brasil:** atuação administrativa e operacional de 2016 a 2025.
 
 <a id="insights"></a>
 <details>
@@ -116,15 +82,9 @@ Atualizado em **2026-09-17 13:16 UTC**. **21 repositórios públicos**, **8 ling
 | PowerShell | 0.88% |
 <!-- insights:end -->
 
-```html
-<aside id="metodologia">
-  <p>Percentuais por bytes de código; não representam proficiência.</p>
-  <p>Inclui repositórios públicos próprios, forks e arquivados.</p>
-  <p>Exclui privados e contribuições em contas de terceiros.</p>
-  <p>Estrelas somadas entre os repositórios incluídos.</p>
-  <p>Atualização diária; em caso de falha, mantém a última coleta.</p>
-</aside>
-```
+Percentuais por **volume de código**, não proficiência. Inclui repositórios públicos desta conta, forks e arquivados; exclui privados e contribuições em contas de terceiros. As estrelas são somadas entre os repositórios incluídos.
+
+Atualização diária. Em caso de falha, a última coleta válida é preservada.
 
 [Dados por repositório](./github-insights.json) · [Histórico de atualizações](https://github.com/DescomplicaDevDan/DescomplicaDevDan/actions/workflows/insights.yml) · [Fonte dos dados](https://docs.github.com/en/rest/repos/repos#list-repository-languages)
 
