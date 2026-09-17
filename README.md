@@ -161,17 +161,17 @@ Os códigos que fazem parte da minha jornada, reunidos em um panorama atualizado
 <summary><strong>&gt;_ insights --linguagens · Ver números e linguagens em texto</strong></summary>
 
 <!-- insights:start -->
-Atualizado em **2026-09-17 13:14 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
+Atualizado em **2026-09-17 13:16 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
 
 | Linguagem | Proporção do código |
 | :--- | ---: |
-| Jupyter Notebook | 38.88% |
-| TypeScript | 24.28% |
-| CSS | 17.35% |
-| HTML | 11.12% |
-| Python | 3.53% |
-| JavaScript | 2.71% |
-| Java | 1.26% |
+| Jupyter Notebook | 38.60% |
+| TypeScript | 24.10% |
+| CSS | 17.23% |
+| HTML | 11.04% |
+| Python | 4.21% |
+| JavaScript | 2.69% |
+| Java | 1.25% |
 | PowerShell | 0.88% |
 <!-- insights:end -->
 
