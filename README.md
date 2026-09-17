@@ -152,25 +152,40 @@ Conte qual problema deseja resolver, quem vai usar a solução e quais entregas 
 <a id="insights"></a>
 <img src="./insights-heading.svg" width="100%" alt="Indicadores dos projetos" />
 
-<p align="center">
-  <a href="#fontes-indicadores"><img src="./insights-tests.svg" width="32%" alt="Testes: aguardando dados da última execução." /></a>
-  <a href="#fontes-indicadores"><img src="./insights-vitals.svg" width="32%" alt="Web Vitals: aguardando medições de LCP, INP e CLS." /></a>
-  <a href="#fontes-indicadores"><img src="./insights-traffic.svg" width="32%" alt="Visitantes únicos por repositório em 14 dias: aguardando dados." /></a>
-</p>
+<a href="https://github.com/DescomplicaDevDan?tab=repositories"><img src="./github-insights.svg" width="100%" alt="Linguagens, repositórios públicos e estrelas. Consulte os valores na versão em texto abaixo." /></a>
+
+Os códigos que fazem parte da minha jornada, reunidos em um panorama atualizado diariamente.
 
 <a id="fontes-indicadores"></a>
 <details>
-<summary><strong>&gt;_ insights --fontes · Consultar status dos indicadores</strong></summary>
+<summary><strong>&gt;_ insights --linguagens · Ver números e linguagens em texto</strong></summary>
 
-Os indicadores ainda não estão conectados a fontes de dados. “Aguardando dados” não significa zero nem falha.
+<!-- insights:start -->
+Atualizado em **2026-09-17 13:14 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
 
-| Indicador | Informação a publicar |
-| :--- | :--- |
-| Testes | Projeto, resultado da execução, data e link para o relatório. |
-| Web Vitals | Aplicação, LCP, INP e CLS, período e fonte da medição. |
-| Visitantes | Repositório, visitantes únicos nos últimos 14 dias e data da consulta. |
+| Linguagem | Proporção do código |
+| :--- | ---: |
+| Jupyter Notebook | 38.88% |
+| TypeScript | 24.28% |
+| CSS | 17.35% |
+| HTML | 11.12% |
+| Python | 3.53% |
+| JavaScript | 2.71% |
+| Java | 1.26% |
+| PowerShell | 0.88% |
+<!-- insights:end -->
 
-O tráfego se refere aos repositórios, não às visitas ao perfil. Estes cartões são SVGs estáticos; a atualização automática ainda não foi configurada.
+</details>
+
+<details>
+<summary><strong>&gt;_ insights --fontes · Como estes dados são calculados</strong></summary>
+
+- **Abrangência:** todos os repositórios públicos da conta DescomplicaDevDan, incluindo forks e arquivados. Repositórios privados e contribuições em contas de terceiros não entram neste painel.
+- **Linguagens:** soma dos bytes de cada linguagem detectada pelo GitHub nos repositórios. Os percentuais representam volume de código, não tempo de estudo, quantidade de commits ou proficiência.
+- **Estrelas:** soma das estrelas recebidas pelos repositórios públicos da conta.
+- **Atualização:** diária pelo GitHub Actions. A data no painel indica a última coleta concluída; se uma consulta falhar, os últimos dados válidos são preservados.
+
+[Consultar dados por repositório](./github-insights.json) · [Acompanhar atualização](https://github.com/DescomplicaDevDan/DescomplicaDevDan/actions/workflows/insights.yml) · [Documentação da fonte](https://docs.github.com/en/rest/repos/repos#list-repository-languages)
 
 </details>
 

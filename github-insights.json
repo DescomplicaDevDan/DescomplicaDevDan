@@ -1,0 +1,186 @@
+{
+  "updated_at": "2026-09-17 13:14 UTC",
+  "repositories": 21,
+  "forks_included": 2,
+  "stars": 6,
+  "languages": {
+    "Jupyter Notebook": 276893,
+    "TypeScript": 172897,
+    "CSS": 123599,
+    "HTML": 79192,
+    "Python": 25139,
+    "JavaScript": 19283,
+    "Java": 8950,
+    "PowerShell": 6289
+  },
+  "sources": [
+    {
+      "name": "Agente-de-Atendimento-Inteligente-para-Psic",
+      "fork": false,
+      "languages": {
+        "Python": 949
+      }
+    },
+    {
+      "name": "convert-template-project",
+      "fork": false,
+      "languages": {
+        "JavaScript": 5851,
+        "CSS": 3459,
+        "HTML": 1729
+      }
+    },
+    {
+      "name": "corporate-it-support-lab",
+      "fork": false,
+      "languages": {
+        "PowerShell": 6289
+      }
+    },
+    {
+      "name": "DescomplicaDevDan",
+      "fork": false,
+      "languages": {}
+    },
+    {
+      "name": "dio-lab-open-source",
+      "fork": true,
+      "languages": {
+        "Jupyter Notebook": 276893
+      }
+    },
+    {
+      "name": "Fullstack-projeto-portal-de-noticias",
+      "fork": false,
+      "languages": {
+        "HTML": 18273,
+        "CSS": 5424
+      }
+    },
+    {
+      "name": "java-sintaxe-basica",
+      "fork": false,
+      "languages": {
+        "Java": 698
+      }
+    },
+    {
+      "name": "marmitas-app",
+      "fork": false,
+      "languages": {
+        "TypeScript": 85787,
+        "JavaScript": 3434,
+        "CSS": 1211,
+        "HTML": 360
+      }
+    },
+    {
+      "name": "Motor_busca",
+      "fork": false,
+      "languages": {
+        "Python": 24190,
+        "HTML": 8945,
+        "CSS": 6194
+      }
+    },
+    {
+      "name": "NLW",
+      "fork": false,
+      "languages": {
+        "JavaScript": 3446,
+        "CSS": 2215,
+        "HTML": 1956
+      }
+    },
+    {
+      "name": "Perfil-de-viagens",
+      "fork": false,
+      "languages": {
+        "CSS": 5173,
+        "HTML": 5058,
+        "JavaScript": 918
+      }
+    },
+    {
+      "name": "portfolio-descomplicadevdan",
+      "fork": false,
+      "languages": {
+        "TypeScript": 75019,
+        "CSS": 48369,
+        "JavaScript": 647
+      }
+    },
+    {
+      "name": "Portifolio-DEV",
+      "fork": false,
+      "languages": {
+        "CSS": 9805,
+        "HTML": 8470
+      }
+    },
+    {
+      "name": "Projeto-forms",
+      "fork": false,
+      "languages": {
+        "HTML": 14131,
+        "CSS": 8156
+      }
+    },
+    {
+      "name": "Projeto-pagina-de-receita",
+      "fork": false,
+      "languages": {
+        "HTML": 3688,
+        "CSS": 838
+      }
+    },
+    {
+      "name": "Projetoaluraplus",
+      "fork": false,
+      "languages": {
+        "HTML": 4982,
+        "CSS": 2849
+      }
+    },
+    {
+      "name": "projetoluiz",
+      "fork": false,
+      "languages": {
+        "HTML": 8639,
+        "CSS": 4028
+      }
+    },
+    {
+      "name": "self-em-acao",
+      "fork": false,
+      "languages": {
+        "CSS": 18101,
+        "TypeScript": 12091,
+        "JavaScript": 559
+      }
+    },
+    {
+      "name": "SistemaEstacionamento",
+      "fork": false,
+      "languages": {
+        "Java": 7941
+      }
+    },
+    {
+      "name": "To-do-list",
+      "fork": false,
+      "languages": {
+        "CSS": 7777,
+        "JavaScript": 4428,
+        "HTML": 2961
+      }
+    },
+    {
+      "name": "trilha-java-basico",
+      "fork": true,
+      "languages": {
+        "Java": 311
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="692" viewBox="0 0 1100 692" role="img" aria-labelledby="title desc">
+<title id="title">Linguagens e atividade dos repositórios públicos</title>
+<desc id="desc">Distribuição por bytes de código, incluindo forks. Valores disponíveis em texto no README.</desc>
+<rect x="1" y="1" width="1098" height="690" rx="14" fill="#07140b" stroke="#174822"/>
+<g font-family="Consolas,monospace">
+<text x="30" y="38" fill="#32e64f" font-size="16">&gt;_ github --insights</text>
+<text x="30" y="92" fill="#32e64f" font-size="38">21</text>
+<text x="30" y="122" fill="#a4b5a8" font-size="17">REPOSITÓRIOS PÚBLICOS</text>
+<text x="395" y="92" fill="#32e64f" font-size="38">8</text>
+<text x="395" y="122" fill="#a4b5a8" font-size="17">LINGUAGENS</text>
+<text x="760" y="92" fill="#32e64f" font-size="38">6</text>
+<text x="760" y="122" fill="#a4b5a8" font-size="17">ESTRELAS RECEBIDAS</text>
+<path d="M30 148h1040" stroke="#174822"/>
+<text x="30" y="184" fill="#e6eee8" font-size="26">Linguagens em todo o meu GitHub público</text>
+<text x="30" y="222" fill="#e6eee8" font-size="19">Jupyter Notebook</text>
+<text x="938" y="222" fill="#a4b5a8" font-size="19">38.88%</text>
+<rect x="280" y="205" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="205" width="241.03" height="20" rx="5" fill="#32e64f"/>
+<text x="30" y="276" fill="#e6eee8" font-size="19">TypeScript</text>
+<text x="938" y="276" fill="#a4b5a8" font-size="19">24.28%</text>
+<rect x="280" y="259" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="259" width="150.51" height="20" rx="5" fill="#45b7ff"/>
+<text x="30" y="330" fill="#e6eee8" font-size="19">CSS</text>
+<text x="938" y="330" fill="#a4b5a8" font-size="19">17.35%</text>
+<rect x="280" y="313" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="313" width="107.59" height="20" rx="5" fill="#f4d35e"/>
+<text x="30" y="384" fill="#e6eee8" font-size="19">HTML</text>
+<text x="938" y="384" fill="#a4b5a8" font-size="19">11.12%</text>
+<rect x="280" y="367" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="367" width="68.94" height="20" rx="5" fill="#bc8cff"/>
+<text x="30" y="438" fill="#e6eee8" font-size="19">Python</text>
+<text x="938" y="438" fill="#a4b5a8" font-size="19">3.53%</text>
+<rect x="280" y="421" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="421" width="21.88" height="20" rx="5" fill="#ff9478"/>
+<text x="30" y="492" fill="#e6eee8" font-size="19">JavaScript</text>
+<text x="938" y="492" fill="#a4b5a8" font-size="19">2.71%</text>
+<rect x="280" y="475" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="475" width="16.79" height="20" rx="5" fill="#4de0ca"/>
+<text x="30" y="546" fill="#e6eee8" font-size="19">Java</text>
+<text x="938" y="546" fill="#a4b5a8" font-size="19">1.26%</text>
+<rect x="280" y="529" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="529" width="7.79" height="20" rx="5" fill="#32e64f"/>
+<text x="30" y="600" fill="#e6eee8" font-size="19">PowerShell</text>
+<text x="938" y="600" fill="#a4b5a8" font-size="19">0.88%</text>
+<rect x="280" y="583" width="620" height="20" rx="5" fill="#14291b"/>
+<rect x="280" y="583" width="5.47" height="20" rx="5" fill="#45b7ff"/>
+<text x="30" y="650" fill="#a4b5a8" font-size="16">Proporção por bytes de código · inclui forks · não mede proficiência</text>
+<text x="30" y="675" fill="#a4b5a8" font-size="15">Atualizado em 2026-09-17 13:14 UTC</text>
+</g></svg>
