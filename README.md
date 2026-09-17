@@ -3,10 +3,9 @@
   <img src="./multiverso.svg" width="100%" alt="Descomplica Dev Dan — Danilo Texeira. Front-end júnior, React e TypeScript. Menos complexidade. Mais clareza." />
 </p>
 
-```html
-<p>São Paulo/SP · Remoto, híbrido e presencial.</p>
-<p>Disponível para vagas júnior e projetos freelance.</p>
-```
+Sou **Danilo Texeira**, desenvolvedor com foco em **front-end, React e TypeScript**. Tenho experiência freelance na criação de interfaces e funcionalidades para aplicações web, com atenção às regras de negócio e à experiência de quem utiliza o produto.
+
+Minha trajetória também inclui atuação administrativa, atendimento e documentação, experiências que contribuem para a organização e a comunicação no trabalho. Moro em **São Paulo/SP** e busco oportunidades como **desenvolvedor front-end júnior**, em formato remoto, híbrido ou presencial. Também estou disponível para projetos freelance.
 
 <a id="contato"></a>
 <a href="https://www.linkedin.com/in/danilo-texeira-dev/"><img src="./button-link-6.svg" width="280" alt="Conversar no LinkedIn" /></a> <a href="mailto:descomplicadevdan@gmail.com"><img src="./button-link-7.svg" width="280" alt="Enviar e-mail" /></a>
