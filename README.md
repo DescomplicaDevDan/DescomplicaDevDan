@@ -1,3 +1,8 @@
+<a id="inicio"></a>
+<p align="center">
+  <img src="./multiverso.svg" width="100%" alt="Descomplica Dev Dan — Danilo Texeira. Front-end júnior, React e TypeScript. Menos complexidade. Mais clareza." />
+</p>
+
 # Danilo Texeira
 **Desenvolvedor Front-end Júnior | React · TypeScript · JavaScript**
 
@@ -8,7 +13,17 @@ Bacharel em Sistemas de Informação — Faculdade Descomplica, 2026.
 
 [LinkedIn](https://www.linkedin.com/in/danilo-texeira-dev/) · [E-mail](mailto:descomplicadevdan@gmail.com) · [Projeto publicado](https://www.nutricomp.com.br/) · [Código da Nutricomp](https://github.com/DescomplicaDevDan/marmitas-app)
 
-## Experiência em desenvolvimento
+<p align="center">
+  <a href="#projetos"><img src="./nav-projetos.svg" width="24%" alt="Projetos e experiência" /></a>
+  <a href="#laboratorio"><img src="./nav-laboratorio.svg" width="24%" alt="Projeto complementar" /></a>
+  <a href="#trajetoria"><img src="./nav-trajetoria.svg" width="24%" alt="Formação e trajetória" /></a>
+  <a href="#contato"><img src="./nav-contato.svg" width="24%" alt="Contato" /></a>
+</p>
+
+<a id="projetos"></a>
+<img src="./section-projetos.svg" width="100%" alt="Experiência em desenvolvimento e projetos" />
+
+<a href="https://www.nutricomp.com.br/"><img src="./nutricomp.svg" width="100%" alt="Nutricomp — projeto freelance de front-end com React, TypeScript e Tailwind CSS. Abrir aplicação." /></a>
 
 ### Nutricomp — Front-end freelance
 **Março a julho de 2026 · React · TypeScript · Tailwind CSS**
@@ -20,9 +35,10 @@ Cardápio digital para selecionar produtos, montar combos e preparar pedidos par
 - **Fluxo de compra:** mensagem com itens, dados de entrega e preferência de pagamento para envio pelo WhatsApp.
 - **Interface:** filtros por categoria, busca por produtos e ingredientes e carregamento sob demanda do checkout e do montador de combos.
 
-[Ver aplicação](https://www.nutricomp.com.br/) · [Ver código](https://github.com/DescomplicaDevDan/marmitas-app)
+<a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
 
-## Tecnologias aplicadas
+<a id="stack"></a>
+<img src="./section-stack.svg" width="100%" alt="Tecnologias aplicadas nos projetos" />
 
 | Tecnologias | Aplicação nos projetos |
 | :--- | :--- |
@@ -33,7 +49,10 @@ Cardápio digital para selecionar produtos, montar combos e preparar pedidos par
 
 **Outras tecnologias utilizadas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
 
-## Projeto complementar
+<a id="laboratorio"></a>
+<img src="./section-laboratorio.svg" width="100%" alt="Laboratório — projeto complementar" />
+
+<a href="https://motor-busca.vercel.app/"><img src="./motor-busca.svg" width="100%" alt="Motor de Busca — Python, Flask, TF-IDF e Trie. Abrir demonstração." /></a>
 
 ### Motor de Busca — Python e Flask
 
@@ -43,18 +62,22 @@ Projeto didático de indexação e recuperação de documentos, com ranqueamento
 - Trie para sugestões por prefixo e API REST com respostas em JSON.
 - Persistência do índice em JSON e testes com unittest para verificar seu carregamento.
 
-[Ver demonstração](https://motor-busca.vercel.app/) · [Ver código](https://github.com/DescomplicaDevDan/Motor_busca)
+<a href="https://motor-busca.vercel.app/"><img src="./button-link-3.svg" width="280" alt="Experimentar motor de busca" /></a> <a href="https://github.com/DescomplicaDevDan/Motor_busca"><img src="./button-link-4.svg" width="280" alt="Explorar código do motor de busca" /></a>
 
-## Formação e trajetória
+<a id="trajetoria"></a>
+<img src="./section-trajetoria.svg" width="100%" alt="Formação e trajetória profissional" />
 
 - **Bacharelado em Sistemas de Informação** — Faculdade Descomplica, concluído em 2026.
 - **Desenvolvimento web autônomo** — desde agosto de 2026, sob a marca Descomplica Dev Dan.
 - **Instituto Pilar — Assistente de Campo** — desde dezembro de 2025. Atendimento, documentação e mediação de conflitos.
 - **Marinha do Brasil** — atuação administrativa e operacional de 2016 a 2025.
 
-## Contato
+<a id="contato"></a>
+<img src="./section-contato.svg" width="100%" alt="Contato — oportunidades e projetos" />
 
 Disponível para oportunidades de **front-end júnior**. Também considero projetos freelance com escopo definido.
+
+<a href="https://www.linkedin.com/in/danilo-texeira-dev/"><img src="./button-link-6.svg" width="280" alt="Conversar no LinkedIn" /></a> <a href="mailto:descomplicadevdan@gmail.com"><img src="./button-link-7.svg" width="280" alt="Enviar e-mail" /></a>
 
 **E-mail:** [descomplicadevdan@gmail.com](mailto:descomplicadevdan@gmail.com)  
 **LinkedIn:** [danilo-texeira-dev](https://www.linkedin.com/in/danilo-texeira-dev/)
@@ -87,3 +110,6 @@ Atualização diária pelo GitHub Actions. A data acima indica a última coleta 
 [Dados por repositório](./github-insights.json) · [Histórico de atualizações](https://github.com/DescomplicaDevDan/DescomplicaDevDan/actions/workflows/insights.yml) · [Fonte dos dados](https://docs.github.com/en/rest/repos/repos#list-repository-languages)
 
 </details>
+
+<p align="center"><a href="#inicio"><img src="./button-top.svg" width="240" alt="Voltar ao início" /></a></p>
+<p align="center"><img src="./logo-footer.svg" width="320" alt="sudo be_myself — Descomplica Dev Dan" /></p>
