@@ -3,15 +3,12 @@
   <img src="./multiverso.svg" width="100%" alt="Descomplica Dev Dan — Danilo Texeira. Front-end júnior, React e TypeScript. Menos complexidade. Mais clareza." />
 </p>
 
-# Danilo Texeira
-**Desenvolvedor Front-end Júnior | React · TypeScript · JavaScript**
-
-Experiência freelance em desenvolvimento front-end na **Nutricomp**, um cardápio digital com montagem de combos, carrinho persistente e preparação de pedidos para WhatsApp.
-
-**São Paulo/SP · Remoto, híbrido e presencial · Busco oportunidades front-end júnior**  
-Bacharel em Sistemas de Informação — Faculdade Descomplica, 2026.
-
-[LinkedIn](https://www.linkedin.com/in/danilo-texeira-dev/) · [E-mail](mailto:descomplicadevdan@gmail.com) · [Projeto publicado](https://www.nutricomp.com.br/) · [Código da Nutricomp](https://github.com/DescomplicaDevDan/marmitas-app)
+```html
+<section id="disponibilidade">
+  <p>São Paulo/SP · Remoto, híbrido e presencial.</p>
+  <p>Busco oportunidades front-end júnior e projetos freelance.</p>
+</section>
+```
 
 <p align="center">
   <a href="#projetos"><img src="./nav-projetos.svg" width="24%" alt="Projetos e experiência" /></a>
@@ -25,62 +22,78 @@ Bacharel em Sistemas de Informação — Faculdade Descomplica, 2026.
 
 <a href="https://www.nutricomp.com.br/"><img src="./nutricomp.svg" width="100%" alt="Nutricomp — projeto freelance de front-end com React, TypeScript e Tailwind CSS. Abrir aplicação." /></a>
 
-### Nutricomp — Front-end freelance
-**Março a julho de 2026 · React · TypeScript · Tailwind CSS**
-
-Cardápio digital para selecionar produtos, montar combos e preparar pedidos para envio pelo WhatsApp.
-
-- **Regras de negócio:** montagem de combos, seleção obrigatória de gramagem e preços por tamanho.
-- **Carrinho e estado:** Context API e LocalStorage para persistir a seleção, com itens separados por gramagem.
-- **Fluxo de compra:** mensagem com itens, dados de entrega e preferência de pagamento para envio pelo WhatsApp.
-- **Interface:** filtros por categoria, busca por produtos e ingredientes e carregamento sob demanda do checkout e do montador de combos.
+```html
+<article id="experiencia-freelance">
+  <p>Atuação em front-end · Março a julho de 2026.</p>
+  <ul>
+    <li>Combos com gramagem obrigatória e preços por tamanho.</li>
+    <li>Carrinho persistente com Context API e LocalStorage.</li>
+    <li>Pedido com itens, entrega e pagamento para envio no WhatsApp.</li>
+    <li>Filtros por categoria e busca por produtos e ingredientes.</li>
+    <li>Checkout e montador de combos carregados sob demanda.</li>
+  </ul>
+</article>
+```
 
 <a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
 
 <a id="stack"></a>
 <img src="./section-stack.svg" width="100%" alt="Tecnologias aplicadas nos projetos" />
 
-| Tecnologias | Aplicação nos projetos |
-| :--- | :--- |
-| React, TypeScript e Tailwind CSS | Interface da Nutricomp |
-| Context API e LocalStorage | Estado e persistência do carrinho na Nutricomp |
-| Python e Flask | Motor de Busca com consultas por API REST |
-| unittest | Testes de persistência e carregamento do índice no Motor de Busca |
-
-**Outras tecnologias utilizadas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
+```html
+<section id="fundamentos-e-ferramentas">
+  <p>HTML · CSS · JavaScript</p>
+  <p>Git/GitHub · Vite</p>
+</section>
+```
 
 <a id="laboratorio"></a>
 <img src="./section-laboratorio.svg" width="100%" alt="Laboratório — projeto complementar" />
 
 <a href="https://motor-busca.vercel.app/"><img src="./motor-busca.svg" width="100%" alt="Motor de Busca — Python, Flask, TF-IDF e Trie. Abrir demonstração." /></a>
 
-### Motor de Busca — Python e Flask
-
-Projeto didático de indexação e recuperação de documentos, com ranqueamento por relevância e sugestões de pesquisa.
-
-- Índice invertido e TF-IDF para localizar documentos e ordenar resultados.
-- Trie para sugestões por prefixo e API REST com respostas em JSON.
-- Persistência do índice em JSON e testes com unittest para verificar seu carregamento.
+```html
+<article id="projeto-didatico">
+  <ul>
+    <li>Índice invertido para localizar documentos.</li>
+    <li>Ranqueamento por relevância e sugestões por prefixo.</li>
+    <li>API REST com respostas em JSON.</li>
+    <li>Persistência do índice e testes de carregamento com unittest.</li>
+  </ul>
+</article>
+```
 
 <a href="https://motor-busca.vercel.app/"><img src="./button-link-3.svg" width="280" alt="Experimentar motor de busca" /></a> <a href="https://github.com/DescomplicaDevDan/Motor_busca"><img src="./button-link-4.svg" width="280" alt="Explorar código do motor de busca" /></a>
 
 <a id="trajetoria"></a>
 <img src="./section-trajetoria.svg" width="100%" alt="Formação e trajetória profissional" />
 
-- **Bacharelado em Sistemas de Informação** — Faculdade Descomplica, concluído em 2026.
-- **Desenvolvimento web autônomo** — desde agosto de 2026, sob a marca Descomplica Dev Dan.
-- **Instituto Pilar — Assistente de Campo** — desde dezembro de 2025. Atendimento, documentação e mediação de conflitos.
-- **Marinha do Brasil** — atuação administrativa e operacional de 2016 a 2025.
+```html
+<section id="formacao-e-experiencia">
+  <article>
+    <h3>Bacharelado em Sistemas de Informação</h3>
+    <p>Faculdade Descomplica · Concluído em 2026.</p>
+  </article>
+  <article>
+    <h3>Desenvolvimento web autônomo</h3>
+    <p>Desde agosto de 2026.</p>
+  </article>
+  <article>
+    <h3>Instituto Pilar · Assistente de Campo</h3>
+    <p>Desde dezembro de 2025.</p>
+    <p>Atendimento, documentação e mediação de conflitos.</p>
+  </article>
+  <article>
+    <h3>Marinha do Brasil</h3>
+    <p>Atuação administrativa e operacional · 2016 a 2025.</p>
+  </article>
+</section>
+```
 
 <a id="contato"></a>
 <img src="./section-contato.svg" width="100%" alt="Contato — oportunidades e projetos" />
 
-Disponível para oportunidades de **front-end júnior**. Também considero projetos freelance com escopo definido.
-
 <a href="https://www.linkedin.com/in/danilo-texeira-dev/"><img src="./button-link-6.svg" width="280" alt="Conversar no LinkedIn" /></a> <a href="mailto:descomplicadevdan@gmail.com"><img src="./button-link-7.svg" width="280" alt="Enviar e-mail" /></a>
-
-**E-mail:** [descomplicadevdan@gmail.com](mailto:descomplicadevdan@gmail.com)  
-**LinkedIn:** [danilo-texeira-dev](https://www.linkedin.com/in/danilo-texeira-dev/)
 
 <a id="insights"></a>
 <details>
@@ -103,9 +116,15 @@ Atualizado em **2026-09-17 13:16 UTC**. **21 repositórios públicos**, **8 ling
 | PowerShell | 0.88% |
 <!-- insights:end -->
 
-Os percentuais representam **bytes de código detectados pelo GitHub**, não proficiência. A coleta inclui todos os repositórios públicos desta conta, inclusive forks e arquivados; exclui repositórios privados e contribuições em contas de terceiros. As estrelas são somadas entre esses repositórios.
-
-Atualização diária pelo GitHub Actions. A data acima indica a última coleta concluída. Se uma consulta falhar, os últimos dados válidos são preservados.
+```html
+<aside id="metodologia">
+  <p>Percentuais por bytes de código; não representam proficiência.</p>
+  <p>Inclui repositórios públicos próprios, forks e arquivados.</p>
+  <p>Exclui privados e contribuições em contas de terceiros.</p>
+  <p>Estrelas somadas entre os repositórios incluídos.</p>
+  <p>Atualização diária; em caso de falha, mantém a última coleta.</p>
+</aside>
+```
 
 [Dados por repositório](./github-insights.json) · [Histórico de atualizações](https://github.com/DescomplicaDevDan/DescomplicaDevDan/actions/workflows/insights.yml) · [Fonte dos dados](https://docs.github.com/en/rest/repos/repos#list-repository-languages)
 
