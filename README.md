@@ -61,10 +61,12 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 - **Marinha do Brasil:** atuação administrativa e operacional de 2016 a 2025.
 
 <a id="insights"></a>
-<details>
-<summary>Linguagens e estatísticas dos meus repositórios públicos</summary>
+<img src="./insights-heading.svg" width="100%" alt="Indicadores dos projetos" />
 
-<img src="./github-insights.svg" width="100%" alt="Distribuição das linguagens por volume de código. Os valores estão disponíveis na tabela abaixo." />
+<img src="./github-insights.svg" width="100%" alt="Linguagens utilizadas nos meus repositórios públicos e proporção por volume de código." />
+
+<details>
+<summary>Consultar linguagens em texto e como os dados são calculados</summary>
 
 <!-- insights:start -->
 Atualizado em **2026-09-17 13:16 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
