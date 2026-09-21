@@ -69,7 +69,7 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 <summary>Consultar linguagens em texto e como os dados são calculados</summary>
 
 <!-- insights:start -->
-Atualizado em **2026-09-20 13:36 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
+Atualizado em **2026-09-21 15:56 UTC**. **21 repositórios públicos**, **8 linguagens** e **6 estrelas recebidas**. Forks incluídos: **2**.
 
 | Linguagem | Proporção do código |
 | :--- | ---: |
