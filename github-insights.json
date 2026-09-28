@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-27 14:44 UTC",
+  "updated_at": "2026-09-28 17:43 UTC",
   "repositories": 21,
   "forks_included": 2,
   "stars": 6,
   "languages": {
     "Jupyter Notebook": 276893,
-    "TypeScript": 179415,
-    "CSS": 123599,
+    "TypeScript": 179779,
+    "CSS": 123980,
     "HTML": 79192,
     "Python": 30207,
     "JavaScript": 19283,
@@ -107,8 +107,8 @@
       "name": "portfolio-descomplicadevdan",
       "fork": false,
       "languages": {
-        "TypeScript": 75019,
-        "CSS": 48369,
+        "TypeScript": 75383,
+        "CSS": 48750,
         "JavaScript": 647
       }
     },
