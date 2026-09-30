@@ -39,9 +39,11 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 
 <a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
 
+[Ler o case técnico da Nutricomp](https://github.com/DescomplicaDevDan/marmitas-app/blob/master/docs/CASE.md)
+
 ### Outros projetos de Front-end
 
-- [Portfólio](https://github.com/DescomplicaDevDan/portfolio-descomplicadevdan): aplicação Next.js com TypeScript, CSS Modules, testes de componentes e fluxos no navegador.
+- [Portfólio publicado](https://portfolio-descomplicadevdan.vercel.app): aplicação Next.js com TypeScript, CSS Modules, testes de componentes e fluxos no navegador. [Ver código](https://github.com/DescomplicaDevDan/portfolio-descomplicadevdan).
 - [Self em Ação](https://github.com/DescomplicaDevDan/self-em-acao): interface institucional **em desenvolvimento**, com conteúdo e componentes organizados. Não é um case concluído.
 
 **Fundamentos e ferramentas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
