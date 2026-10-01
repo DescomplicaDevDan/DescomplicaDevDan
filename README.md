@@ -3,7 +3,9 @@
   <img src="./multiverso.svg" width="100%" alt="Descomplica Dev Dan — Danilo Texeira. Front-end júnior, React e TypeScript. Menos complexidade. Mais clareza." />
 </p>
 
-Sou **Danilo Texeira**, desenvolvedor com foco em **front-end, React e TypeScript**. Tenho experiência freelance na criação de interfaces e funcionalidades para aplicações web, com atenção às regras de negócio e à experiência de quem utiliza o produto.
+## Desenvolvedor Front-end Júnior | React | TypeScript | JavaScript
+
+Sou **Danilo Texeira**, desenvolvedor com foco em **React e TypeScript**. Tenho experiência freelance na criação de interfaces e funcionalidades para aplicações web, com atenção às regras de negócio e à experiência de quem utiliza o produto.
 
 Minha trajetória também inclui atuação administrativa, atendimento e documentação, experiências que contribuem para a organização e a comunicação no trabalho. Moro em **São Paulo/SP** e busco oportunidades como **desenvolvedor front-end júnior**, em formato remoto, híbrido ou presencial. Também estou disponível para projetos freelance.
 
@@ -36,6 +38,13 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 </details>
 
 <a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
+
+[Ler o case técnico da Nutricomp](https://github.com/DescomplicaDevDan/marmitas-app/blob/master/docs/CASE.md)
+
+### Outros projetos de Front-end
+
+- [Portfólio publicado](https://portfolio-descomplicadevdan.vercel.app): aplicação Next.js com TypeScript, CSS Modules, testes de componentes e fluxos no navegador. [Ver código](https://github.com/DescomplicaDevDan/portfolio-descomplicadevdan).
+- [Self em Ação](https://github.com/DescomplicaDevDan/self-em-acao): interface institucional **em desenvolvimento**, com conteúdo e componentes organizados. Não é um case concluído.
 
 **Fundamentos e ferramentas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
 
