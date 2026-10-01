@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-30 15:58 UTC",
-  "repositories": 21,
+  "updated_at": "2026-10-01 16:31 UTC",
+  "repositories": 22,
   "forks_included": 2,
   "stars": 6,
   "languages": {
     "Jupyter Notebook": 276893,
-    "TypeScript": 179779,
-    "CSS": 123980,
-    "HTML": 79192,
-    "Python": 30207,
-    "JavaScript": 19283,
+    "TypeScript": 180556,
+    "CSS": 120850,
+    "HTML": 79224,
+    "Python": 30197,
+    "JavaScript": 19690,
     "Java": 8950,
     "PowerShell": 6289
   },
@@ -19,6 +19,15 @@
       "fork": false,
       "languages": {
         "Python": 949
+      }
+    },
+    {
+      "name": "Central-de-Chamados",
+      "fork": false,
+      "languages": {
+        "TypeScript": 1264,
+        "JavaScript": 407,
+        "CSS": 91
       }
     },
     {
@@ -80,8 +89,8 @@
       "name": "Motor_busca",
       "fork": false,
       "languages": {
-        "Python": 24190,
-        "HTML": 8945,
+        "Python": 24180,
+        "HTML": 8977,
         "CSS": 6194
       }
     },
@@ -107,8 +116,8 @@
       "name": "portfolio-descomplicadevdan",
       "fork": false,
       "languages": {
-        "TypeScript": 75383,
-        "CSS": 48750,
+        "TypeScript": 74896,
+        "CSS": 45529,
         "JavaScript": 647
       }
     },

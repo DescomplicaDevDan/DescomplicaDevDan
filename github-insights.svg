@@ -4,7 +4,7 @@
 <rect x="1" y="1" width="1098" height="690" rx="14" fill="#07140b" stroke="#174822"/>
 <g font-family="Consolas,monospace">
 <text x="30" y="38" fill="#32e64f" font-size="16">&gt;_ github --insights</text>
-<text x="30" y="92" fill="#32e64f" font-size="38">21</text>
+<text x="30" y="92" fill="#32e64f" font-size="38">22</text>
 <text x="30" y="122" fill="#a4b5a8" font-size="17">REPOSITÓRIOS PÚBLICOS</text>
 <text x="395" y="92" fill="#32e64f" font-size="38">8</text>
 <text x="395" y="122" fill="#a4b5a8" font-size="17">LINGUAGENS</text>
@@ -13,37 +13,37 @@
 <path d="M30 148h1040" stroke="#174822"/>
 <text x="30" y="184" fill="#e6eee8" font-size="26">Linguagens em todo o meu GitHub público</text>
 <text x="30" y="222" fill="#e6eee8" font-size="19">Jupyter Notebook</text>
-<text x="938" y="222" fill="#a4b5a8" font-size="19">38.21%</text>
+<text x="938" y="222" fill="#a4b5a8" font-size="19">38.32%</text>
 <rect x="280" y="205" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="205" width="236.93" height="20" rx="5" fill="#32e64f"/>
+<rect x="280" y="205" width="237.56" height="20" rx="5" fill="#32e64f"/>
 <text x="30" y="276" fill="#e6eee8" font-size="19">TypeScript</text>
-<text x="938" y="276" fill="#a4b5a8" font-size="19">24.81%</text>
+<text x="938" y="276" fill="#a4b5a8" font-size="19">24.99%</text>
 <rect x="280" y="259" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="259" width="153.83" height="20" rx="5" fill="#45b7ff"/>
+<rect x="280" y="259" width="154.91" height="20" rx="5" fill="#45b7ff"/>
 <text x="30" y="330" fill="#e6eee8" font-size="19">CSS</text>
-<text x="938" y="330" fill="#a4b5a8" font-size="19">17.11%</text>
+<text x="938" y="330" fill="#a4b5a8" font-size="19">16.72%</text>
 <rect x="280" y="313" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="313" width="106.09" height="20" rx="5" fill="#f4d35e"/>
+<rect x="280" y="313" width="103.68" height="20" rx="5" fill="#f4d35e"/>
 <text x="30" y="384" fill="#e6eee8" font-size="19">HTML</text>
-<text x="938" y="384" fill="#a4b5a8" font-size="19">10.93%</text>
+<text x="938" y="384" fill="#a4b5a8" font-size="19">10.96%</text>
 <rect x="280" y="367" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="367" width="67.76" height="20" rx="5" fill="#bc8cff"/>
+<rect x="280" y="367" width="67.97" height="20" rx="5" fill="#bc8cff"/>
 <text x="30" y="438" fill="#e6eee8" font-size="19">Python</text>
-<text x="938" y="438" fill="#a4b5a8" font-size="19">4.17%</text>
+<text x="938" y="438" fill="#a4b5a8" font-size="19">4.18%</text>
 <rect x="280" y="421" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="421" width="25.85" height="20" rx="5" fill="#ff9478"/>
+<rect x="280" y="421" width="25.91" height="20" rx="5" fill="#ff9478"/>
 <text x="30" y="492" fill="#e6eee8" font-size="19">JavaScript</text>
-<text x="938" y="492" fill="#a4b5a8" font-size="19">2.66%</text>
+<text x="938" y="492" fill="#a4b5a8" font-size="19">2.72%</text>
 <rect x="280" y="475" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="475" width="16.50" height="20" rx="5" fill="#4de0ca"/>
+<rect x="280" y="475" width="16.89" height="20" rx="5" fill="#4de0ca"/>
 <text x="30" y="546" fill="#e6eee8" font-size="19">Java</text>
 <text x="938" y="546" fill="#a4b5a8" font-size="19">1.24%</text>
 <rect x="280" y="529" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="529" width="7.66" height="20" rx="5" fill="#32e64f"/>
+<rect x="280" y="529" width="7.68" height="20" rx="5" fill="#32e64f"/>
 <text x="30" y="600" fill="#e6eee8" font-size="19">PowerShell</text>
 <text x="938" y="600" fill="#a4b5a8" font-size="19">0.87%</text>
 <rect x="280" y="583" width="620" height="20" rx="5" fill="#14291b"/>
-<rect x="280" y="583" width="5.38" height="20" rx="5" fill="#45b7ff"/>
+<rect x="280" y="583" width="5.40" height="20" rx="5" fill="#45b7ff"/>
 <text x="30" y="650" fill="#a4b5a8" font-size="16">Proporção por bytes de código · inclui forks · não mede proficiência</text>
-<text x="30" y="675" fill="#a4b5a8" font-size="15">Atualizado em 2026-09-30 15:58 UTC</text>
+<text x="30" y="675" fill="#a4b5a8" font-size="15">Atualizado em 2026-10-01 16:31 UTC</text>
 </g></svg>
