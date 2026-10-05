@@ -1,31 +1,24 @@
 {
-  "updated_at": "2026-10-04 14:51 UTC",
-  "repositories": 22,
+  "updated_at": "2026-10-05 18:34 UTC",
+  "repositories": 19,
   "forks_included": 2,
-  "stars": 4,
+  "stars": 5,
   "languages": {
     "Jupyter Notebook": 276893,
-    "TypeScript": 191062,
-    "CSS": 120850,
-    "HTML": 79224,
-    "Python": 30197,
-    "JavaScript": 19690,
+    "TypeScript": 185692,
+    "CSS": 98709,
+    "HTML": 70585,
+    "Python": 29248,
+    "JavaScript": 19131,
     "Java": 8950,
     "PowerShell": 6289
   },
   "sources": [
     {
-      "name": "Agente-de-Atendimento-Inteligente-para-Psic",
-      "fork": false,
-      "languages": {
-        "Python": 949
-      }
-    },
-    {
       "name": "Central-de-Chamados",
       "fork": false,
       "languages": {
-        "TypeScript": 11770,
+        "TypeScript": 17983,
         "JavaScript": 407,
         "CSS": 91
       }
@@ -116,8 +109,8 @@
       "name": "portfolio-descomplicadevdan",
       "fork": false,
       "languages": {
-        "TypeScript": 74896,
-        "CSS": 45529,
+        "TypeScript": 75404,
+        "CSS": 45517,
         "JavaScript": 647
       }
     },
@@ -151,23 +144,6 @@
       "languages": {
         "HTML": 4982,
         "CSS": 2849
-      }
-    },
-    {
-      "name": "projetoluiz",
-      "fork": false,
-      "languages": {
-        "HTML": 8639,
-        "CSS": 4028
-      }
-    },
-    {
-      "name": "self-em-acao",
-      "fork": false,
-      "languages": {
-        "CSS": 18101,
-        "TypeScript": 12091,
-        "JavaScript": 559
       }
     },
     {
