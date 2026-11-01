@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-31 15:23 UTC",
-  "repositories": 19,
+  "updated_at": "2026-11-01 16:07 UTC",
+  "repositories": 20,
   "forks_included": 2,
   "stars": 5,
   "languages": {
+    "TypeScript": 496305,
     "Jupyter Notebook": 276893,
-    "TypeScript": 185692,
-    "CSS": 98709,
-    "HTML": 70585,
+    "CSS": 178456,
+    "HTML": 71218,
     "Python": 29248,
-    "JavaScript": 19131,
+    "JavaScript": 24929,
     "Java": 8950,
     "PowerShell": 6289
   },
@@ -85,6 +85,16 @@
         "Python": 24180,
         "HTML": 8977,
         "CSS": 6194
+      }
+    },
+    {
+      "name": "nft-marketplace",
+      "fork": false,
+      "languages": {
+        "TypeScript": 310613,
+        "CSS": 79747,
+        "JavaScript": 5798,
+        "HTML": 633
       }
     },
     {
