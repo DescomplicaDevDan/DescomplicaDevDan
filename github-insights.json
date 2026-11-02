@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-01 16:07 UTC",
-  "repositories": 20,
+  "updated_at": "2026-11-02 19:35 UTC",
+  "repositories": 21,
   "forks_included": 2,
   "stars": 5,
   "languages": {
     "TypeScript": 496305,
     "Jupyter Notebook": 276893,
     "CSS": 178456,
-    "HTML": 71218,
+    "HTML": 71508,
     "Python": 29248,
-    "JavaScript": 24929,
+    "JavaScript": 25013,
     "Java": 8950,
     "PowerShell": 6289
   },
@@ -51,6 +51,14 @@
       "fork": true,
       "languages": {
         "Jupyter Notebook": 276893
+      }
+    },
+    {
+      "name": "frontend-academy",
+      "fork": false,
+      "languages": {
+        "HTML": 290,
+        "JavaScript": 84
       }
     },
     {

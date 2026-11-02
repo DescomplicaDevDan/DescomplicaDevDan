@@ -78,16 +78,16 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 <summary>Consultar linguagens em texto e como os dados são calculados</summary>
 
 <!-- insights:start -->
-Atualizado em **2026-11-01 16:07 UTC**. **20 repositórios públicos**, **8 linguagens** e **5 estrelas recebidas**. Forks incluídos: **2**.
+Atualizado em **2026-11-02 19:35 UTC**. **21 repositórios públicos**, **8 linguagens** e **5 estrelas recebidas**. Forks incluídos: **2**.
 
 | Linguagem | Proporção do código |
 | :--- | ---: |
-| TypeScript | 45.44% |
-| Jupyter Notebook | 25.35% |
-| CSS | 16.34% |
-| HTML | 6.52% |
+| TypeScript | 45.42% |
+| Jupyter Notebook | 25.34% |
+| CSS | 16.33% |
+| HTML | 6.54% |
 | Python | 2.68% |
-| JavaScript | 2.28% |
+| JavaScript | 2.29% |
 | Java | 0.82% |
 | PowerShell | 0.58% |
 <!-- insights:end -->
