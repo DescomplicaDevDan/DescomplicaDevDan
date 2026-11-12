@@ -44,7 +44,6 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 ### Outros projetos de Front-end
 
 - [Portfólio publicado](https://portfolio-descomplicadevdan.vercel.app): aplicação Next.js com TypeScript, CSS Modules, testes de componentes e fluxos no navegador. [Ver código](https://github.com/DescomplicaDevDan/portfolio-descomplicadevdan).
-- [Self em Ação](https://github.com/DescomplicaDevDan/self-em-acao): interface institucional **em desenvolvimento**, com conteúdo e componentes organizados. Não é um case concluído.
 
 **Fundamentos e ferramentas:** HTML, CSS, JavaScript, Git/GitHub e Vite.
 
