@@ -22,7 +22,7 @@ Minha trajetória também inclui atuação administrativa, atendimento e documen
 <a id="projetos"></a>
 <img src="./section-projetos.svg" width="100%" alt="Experiência em desenvolvimento e projetos" />
 
-<a href="https://www.nutricomp.com.br/"><img src="./nutricomp.svg" width="100%" alt="Nutricomp — projeto freelance de front-end com React, TypeScript e Tailwind CSS. Abrir aplicação." /></a>
+<a href="https://marmitas-app-3nig.vercel.app/"><img src="./nutricomp.svg" width="100%" alt="Nutricomp — projeto freelance de front-end com React, TypeScript e Tailwind CSS. Abrir aplicação." /></a>
 
 **Experiência freelance em front-end · Março a julho de 2026.**
 
@@ -37,7 +37,7 @@ Filtros por categoria, busca por produtos e ingredientes e carregamento sob dema
 
 </details>
 
-<a href="https://www.nutricomp.com.br/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
+<a href="https://marmitas-app-3nig.vercel.app/"><img src="./button-link-1.svg" width="280" alt="Abrir aplicação Nutricomp" /></a> <a href="https://github.com/DescomplicaDevDan/marmitas-app"><img src="./button-link-2.svg" width="280" alt="Explorar código da Nutricomp" /></a>
 
 [Ler o case técnico da Nutricomp](https://github.com/DescomplicaDevDan/marmitas-app/blob/master/docs/CASE.md)
 
